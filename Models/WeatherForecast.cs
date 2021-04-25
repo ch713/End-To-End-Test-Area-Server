@@ -1,6 +1,6 @@
 using System;
 
-namespace End_To_End_Test_Area_Server
+namespace End_To_End_Test_Area_Server.Models
 {
     public class WeatherForecast
     {
